@@ -27,6 +27,7 @@ Weblio, Inc. | https://www.weblio-inc.jp/ | [@weblio](https://github.com/weblio)
 Tokyo Otaku Mode Inc. | https://corporate.otakumode.com/ | [@tokyootakumode](https://github.com/tokyootakumode) | Front-end tools and back-end service for [Tokyo Otaku Mode](https://otakumode.com/)
 PrAha Inc. | https://www.praha-inc.com/ | [@praha-inc](https://github.com/praha-inc/) | We develop most of our back-end services with Node.js + TypeScript. Some of our works can be found [here](https://www.praha-inc.com/works)
 NightLamp LLC | https://nightlamp.dev/ | [@nightlamp-llc](https://github.com/nightlamp-llc/) | Node.js and TypeScript are used in many of our products. (Order Development Services ⚒, Automatic lock IoT service 🔐)
+VisasQ Inc. | https://corp.visasq.co.jp/ | [@visasq](https://github.com/visasq/) | Node.js and TypeScript are used in many of our products. (A knowledge sharing platformthat connects insights fromaround the world)
 
 ## See also
 + Angular: https://github.com/ng-japan/who-use-angular-in-japan
